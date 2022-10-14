@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="name" />
+    <string name="currrent_weight" />
+    <string name="height" />
+    <string name="goal_weight" />
+</resources>
